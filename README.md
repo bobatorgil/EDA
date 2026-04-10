@@ -1,4 +1,3 @@
-# **✨ DAEM Team Project**
 ## **┗ EDA about Casting dataset**
 ---
 
